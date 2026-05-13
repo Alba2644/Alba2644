@@ -39,8 +39,7 @@ I'm passionate about building clean and efficient applications. I specialize in 
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-gerard.matija26@gmail.com-blue?style=flat-square&logo=gmail)](mailto:gerard.matija26@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@gerard_matija-blue?style=flat-square&logo=telegram)](https://t.me/gerard_matija)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gerardmatija.com-blue?style=flat-square&logo=vercel)](https://gerardmatija.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gerardmatija.com-blue?style=flat-square&logo=vercel)](https://gerdserver.duckdns.org)
 
 ---
 
