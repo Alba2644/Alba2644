@@ -28,14 +28,6 @@ I'm passionate about building clean and efficient applications. I specialize in 
 
 ---
 
-## 📊 GitHub Stats
-
-![Gerard's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardmatija&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardmatija&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-gerard.matija26@gmail.com-blue?style=flat-square&logo=gmail)](mailto:gerard.matija26@gmail.com)
